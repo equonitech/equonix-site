@@ -1,0 +1,25 @@
+Dear Mr. XXX,
+Greetings from Equonix Technologies and hope you are well.
+This is XXX from business team at Equonix, Noida, India. I am writing you to introduce our
+capabilities and learn your areas of interest.
+To introduce, Equonix Technologies is an engineering services company and partner
+to many reputed companies, Furtune500 globally. For your perusal, please find our services
+portfolio attached. We support in the following ways:
+        Automotive Control Units - Software Development, Validation Services & System Engineering
+        Modeling, Simulation and Rapid prototyping - MATLAB, SIMULINK, LABVIEW, ASCET etc.
+        Vehicle Network Management using CAN, LIN, Flexray, J1939 etc.
+        Vehicle Diagnostics Protocols such as KWP2000, UDS, OBD etc
+        Well versed with AUTOSAR, MISRA and ISO26262 Standards
+        HMI, UI, Tooling, Test systems - PC, Smart phone based
+        Hardware In Loop (HIL), Software In Loop (SIL), Model In Loop (MIL) Testing
+        Telematics, Infotainment and Multimedia solutions
+        Experience in Navigation and Telematics module
+        Experience in integrating GPS, GSM/3G/4G WiFi, BT module
+        Applications such as eCall, remote diagnostics, fleet management , navigation systems
+Please let me know if there is anything we can be of any help?
+Stay safe!
+
+Regards,
+Kamran Ashraf
+Business Development
+Automotive Division
