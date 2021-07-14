@@ -5,21 +5,22 @@ capabilities and learn your areas of interest.
 To introduce, Equonix Technologies is an engineering services company and partner
 to many reputed companies, Furtune500 globally. For your perusal, please find our services
 portfolio attached. We support in the following ways:
-        Automotive Control Units - Software Development, Validation Services & System Engineering
-        Modeling, Simulation and Rapid prototyping - MATLAB, SIMULINK, LABVIEW, ASCET etc.
-        Vehicle Network Management using CAN, LIN, Flexray, J1939 etc.
-        Vehicle Diagnostics Protocols such as KWP2000, UDS, OBD etc
-        Well versed with AUTOSAR, MISRA and ISO26262 Standards
-        HMI, UI, Tooling, Test systems - PC, Smart phone based
-        Hardware In Loop (HIL), Software In Loop (SIL), Model In Loop (MIL) Testing
-        Telematics, Infotainment and Multimedia solutions
-        Experience in Navigation and Telematics module
-        Experience in integrating GPS, GSM/3G/4G WiFi, BT module
-        Applications such as eCall, remote diagnostics, fleet management , navigation systems
+        * Custom Software Development Services -Building bespoke solutions that make your business
+        workflows faster and more efficient
+        * Software Testing Services - Skilled QA engineers focused on shipping quality product and reducing development time
+        * Mobile Application Development Services - Talented pool of developers experienced in building mHealth apps, mobile payment apps, and m-commerce appsVehicle Network Management using CAN, LIN, Flexray, J1939 etc.
+        * Web Application Development Services - Make solutions that accelerate workflows, optimize operations and boost revenues
+        * Dedicated Software Development Team - Get experienced dedicated team hand-picked to reduce your overhead while ensuring timely deliverables
+        * Software Product Development Services - We partner with entrepreneurs and organizations to transform their ideas into software products
+        * API Integration Services - Extend the reach of your app by designing custom APIs and reduce your development time and cost by integrating with other APIs
+        * IoT Development Services - Simplify business offerings by employing a wide range of digital platforms including VR, AR and wearables
+        * Hire Dedicated Developers - Extend your team with tech experts ready to complete your existing project or build one from scratch
+        Expertise: React Native, React JS, C++, MATLAB, Python, Audio-Video Streaming, OpenCV, FFMPEG, Algorithms, Android, R, Embedded,
+
 Please let me know if there is anything we can be of any help?
 Stay safe!
 
 Regards,
-Kamran Ashraf
+Tanmoy Deb
 Business Development
-Automotive Division
+App-Software-IoT Services Divison
