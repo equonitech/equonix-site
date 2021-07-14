@@ -47,7 +47,7 @@
         <ul>
           <li> <a href="index.html">Home</a> </li>
           <li> <a href="about.html">About</a> </li>
-          <li class="active"> <a href="javascript:void(0);">Services & Products</a>
+          <li class="active"> <a href="javascript:void(0);">Services</a>
             <ul class="submenu">
                 <li><a href="iot.html">IoT</a></li>
                 <li><a href="embedded.html">Embedded</a></li>
@@ -83,7 +83,7 @@
     <div class="container">
     <div class="banner-logo-cntr"><img src="images/banner-full-logo.png" alt="Equonix Technologies Logo"></div>
       <div class="slider-Large-txt">
-      	<span>Services & Products</span>
+      	<span>Services</span>
         <h2>Indhradhanu</h2>
         <p>Get a competitive edge with Indradhanu Automatic <br>Weather Station to measure various weather parameters <br>with the most accurate and cost effective solutions.</p>
       </div>
@@ -229,7 +229,7 @@
       </div>
       <div class="footer-menu-list-cntr active">
         <div class="footer-menu-list-title-cntr">
-          <div class="footer-menu-list-title">Services & Products</div>
+          <div class="footer-menu-list-title">Services</div>
         </div>
         <ul class="footer-menu-ul">
           <li class="footer-menu-list"><a href="iot.html">IoT</a></li>
